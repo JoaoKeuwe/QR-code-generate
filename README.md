@@ -25,3 +25,5 @@ https://user-images.githubusercontent.com/91097315/192170656-f16b3986-75d6-41fa-
 
 
 ## 
+ 
+ Link do deploy do Projeto: https://genearate-qr-code.netlify.app/
